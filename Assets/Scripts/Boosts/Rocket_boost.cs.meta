@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a78ab64add0c61f48bf166a193db987d
+timeCreated: 1521785343
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flame: {fileID: 1126360773804546, guid: 23a2d7f9573e88146a3477be1c5cce04, type: 2}
+  - rd: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

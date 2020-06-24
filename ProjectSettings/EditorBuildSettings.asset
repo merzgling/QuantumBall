@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: 6d1f8152464d35346b55ac60cd74634e
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b98b74223d6dd21429e71ca89aa20d91
+  - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: de1737278c814a34d827be8a163aff46
+  - enabled: 1
+    path: Assets/Scenes/Challenge 0 Rolling like a stone.unity
+    guid: 3330ebc4e8679de4081cfabb2a7c56b8
+  - enabled: 1
+    path: Assets/Scenes/Challenge 1 Rolling in the deep.unity
+    guid: e9648b67d52a54f49ad422137560ca82
+  - enabled: 1
+    path: Assets/Scenes/Challenge 2 saws and deep.unity
+    guid: 04deac86bba3d3f48b2836c391772e59
+  - enabled: 1
+    path: Assets/Scenes/Challenge 3 Saw of a preacher man.unity
+    guid: de399fda7a3a5c841a7f1dca8426cd7a
+  - enabled: 1
+    path: Assets/Scenes/Challenge 4 Infinity war.unity
+    guid: ed9d7c6f03b831546b5d07f82a4443c8
+  - enabled: 1
+    path: Assets/Scenes/Gold mine.unity
+    guid: b79a647a26d7a4b4da4ca28d60ee0106
+  - enabled: 1
+    path: Assets/Scenes/Challenge 5 Good day to die.unity
+    guid: 3b954949e1641f54cad23c63559f5a86
+  - enabled: 1
+    path: Assets/Scenes/Challenge 6 Stuck on the saw with you.unity
+    guid: 8112866be1d3c7e4199bfa2a621ee98f
+  - enabled: 1
+    path: Assets/Scenes/Challenge 7.unity
+    guid: c400d3b079de24c40b8fa9371a538bcd
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: fb74448cadc015845bccac9e2120cb9a
